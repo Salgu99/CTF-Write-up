@@ -9,8 +9,8 @@ options.add_experimental_option("excludeSwitches", ["enable-logging"])
 driver = webdriver.Chrome(executable_path='chromedriver', options=options)
 
 
-id = 'kimsalgu'
-pw = 'salgu531'
+id = '####'
+pw = '@@@@'
 passch = ''
 
 
